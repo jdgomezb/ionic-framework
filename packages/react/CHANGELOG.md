@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.1.14-nightly.20220817](https://github.com/ionic-team/ionic/compare/v6.0.14...v6.1.14-nightly.20220817) (2022-08-17)
+
+
+### Bug Fixes
+
+* **all:** improve compatibility with vite ([#25381](https://github.com/ionic-team/ionic/issues/25381)) ([d83bcd2](https://github.com/ionic-team/ionic/commit/d83bcd2b7f9937550008f995ff91517777584373)), closes [#23823](https://github.com/ionic-team/ionic/issues/23823)
+* **range:** interfaces are now correctly exported ([#25342](https://github.com/ionic-team/ionic/issues/25342)) ([15f0c06](https://github.com/ionic-team/ionic/commit/15f0c0669f7598386edf487f408462b90ed91a08)), closes [#25341](https://github.com/ionic-team/ionic/issues/25341)
+* **react:** add param types to useIonPopover dismiss function ([#25311](https://github.com/ionic-team/ionic/issues/25311)) ([7111370](https://github.com/ionic-team/ionic/commit/7111370dd787fdec78a1e3368679bc4c73570b98))
+* **react:** IonNav works with react ([#25565](https://github.com/ionic-team/ionic/issues/25565)) ([420f9bb](https://github.com/ionic-team/ionic/commit/420f9bbebd41f3eab6def795bcdd1933d5c5a47a)), closes [#24002](https://github.com/ionic-team/ionic/issues/24002)
+* **react:** IonTabButton will call custom onClick handlers ([#25313](https://github.com/ionic-team/ionic/issues/25313)) ([6034418](https://github.com/ionic-team/ionic/commit/6034418b33c32fdd682c470eaf61b9fcbe86c4bb)), closes [#22511](https://github.com/ionic-team/ionic/issues/22511)
+* **react:** present controller overlays in React 18 ([#25361](https://github.com/ionic-team/ionic/issues/25361)) ([01c40ea](https://github.com/ionic-team/ionic/commit/01c40eae5509f1c150d79269a7a75c05112fa343)), closes [#25247](https://github.com/ionic-team/ionic/issues/25247)
+* **react:** useIonModal/useIonPopover dismiss accepts data and role ([#25209](https://github.com/ionic-team/ionic/issues/25209)) ([68b2f8b](https://github.com/ionic-team/ionic/commit/68b2f8bfe10946580b996e48c4ec1e2df94b8d49)), closes [#25208](https://github.com/ionic-team/ionic/issues/25208)
+* **vue:** canDismiss definition is now exposed ([#25195](https://github.com/ionic-team/ionic/issues/25195)) ([e5e0e24](https://github.com/ionic-team/ionic/commit/e5e0e24f76c15c1a49f759b1a140e337f5393edd))
+
+
+
+
+
 ## [6.1.13](https://github.com/ionic-team/ionic/compare/v6.1.12...v6.1.13) (2022-07-06)
 
 **Note:** Version bump only for package @ionic/react
